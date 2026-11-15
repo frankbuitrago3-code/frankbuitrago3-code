@@ -58,6 +58,21 @@
       <a href="https://github.com/frankbuitrago3-code/facturacion-pymes">Ver repositorio →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/frankbuitrago3-code/crm-pymes">📈 CRM de Ventas</a></h3>
+      <p>Embudo de ventas <b>Kanban con arrastrar y soltar</b>, contactos con historial, tareas de seguimiento, previsión ponderada y permisos por vendedor. API en Express con <b>22 pruebas</b> y CI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
+        <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+      </p>
+      <a href="https://github.com/frankbuitrago3-code/crm-pymes">Ver repositorio →</a>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ### 🛠️ Tecnologías
