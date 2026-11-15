@@ -1,8 +1,9 @@
 <h1 align="center">Hola, soy smartbyte 👋</h1>
 
 <p align="center">
-  <b>Desarrollador web full stack</b> · Next.js · TypeScript · Python<br>
-  Construyo aplicaciones web completas y automatizaciones que resuelven problemas reales de negocios.
+  <b>Desarrollador web full stack</b> · React · Next.js · TypeScript · Python<br>
+  Construyo aplicaciones web completas que resuelven problemas reales de pequeñas y medianas empresas:<br>
+  ventas, facturación, clientes, citas y personal.
 </p>
 
 ---
@@ -71,6 +72,15 @@
       <a href="https://github.com/frankbuitrago3-code/crm-pymes">Ver repositorio →</a>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/frankbuitrago3-code/control-asistencia">⏱ Control de Asistencia</a></h3>
+      <p>Kiosco de fichaje con PIN para tablet, quién está trabajando en tiempo real, horas extra, tardanzas, turnos de noche, ausencias y <b>reporte de nómina en Excel</b>. API REST documentada con OpenAPI. <b>29 pruebas</b> con CI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+        <img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" alt="OpenAPI">
+      </p>
+      <a href="https://github.com/frankbuitrago3-code/control-asistencia">Ver repositorio →</a>
     </td>
   </tr>
 </table>
@@ -89,11 +99,16 @@
 <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
 <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite">
 
 **Bases de datos y despliegue:**
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/Turso-4FF8D2?logo=turso&logoColor=black" alt="Turso">
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
