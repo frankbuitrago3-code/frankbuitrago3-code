@@ -34,6 +34,21 @@
       <a href="https://github.com/frankbuitrago3-code/sistema-ventas">Ver repositorio →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/frankbuitrago3-code/agenda-citas">✂ Agenda de Citas Online</a></h3>
+      <p>Reservas online para barberías, salones y consultorios: disponibilidad en tiempo real, <b>sin citas dobles</b> gracias a transacciones, panel de agenda por profesional, horarios y días libres, y recordatorios por WhatsApp. <b>33 pruebas</b> con CI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest">
+      </p>
+      <a href="https://github.com/frankbuitrago3-code/agenda-citas">Ver repositorio →</a>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ### 🛠️ Tecnologías
