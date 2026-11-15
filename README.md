@@ -47,6 +47,15 @@
       <a href="https://github.com/frankbuitrago3-code/agenda-citas">Ver repositorio →</a>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/frankbuitrago3-code/facturacion-pymes">🧾 Facturación y Cotizaciones</a></h3>
+      <p>Cotizaciones que se convierten en facturas, <b>numeración correlativa sin huecos</b>, PDF, cobros parciales, estado de cuenta por cliente, facturas vencidas y libro de ventas en CSV. <b>36 pruebas</b> con CI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
+        <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+        <img src="https://img.shields.io/badge/PDF-EC1C24?logo=adobeacrobatreader&logoColor=white" alt="PDF">
+      </p>
+      <a href="https://github.com/frankbuitrago3-code/facturacion-pymes">Ver repositorio →</a>
     </td>
   </tr>
 </table>
